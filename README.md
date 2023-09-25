@@ -22,4 +22,4 @@ The code for the fashion recommender system can be found in the ShowGPT GitHub r
 
 - Chat History: The chatbot keeps track of the conversation history, displaying both user inputs and the chatbot's responses. The chat history allows users to review previous interactions.
 
-Clear Chat: Users have the option to clear the chat history to start a new conversation.
+- Clear Chat: Users have the option to clear the chat history to start a new conversation.
